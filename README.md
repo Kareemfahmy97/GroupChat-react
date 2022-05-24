@@ -14,12 +14,13 @@
 
 
 #### Technologies used :
--JavaScript.
--Nodejs.
--React (Custom hooks, Context ...).
--Stream.
--Heroku for saving users and messages.
+- JavaScript.
+- Nodejs.
+- React (Custom hooks, Context ...).
+- Stream.
+- Heroku for saving users and messages.
 
+#### Screenshots : 
 
 ![Medical](https://user-images.githubusercontent.com/88718975/169918582-03e662dc-167e-4756-80f9-2c6b9ff3c9d3.png)
 
