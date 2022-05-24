@@ -8,7 +8,7 @@
 - Direct messages, group chats creation and emojis as reactions.
 - Giphs, edit and delete messages, reply and specialized commands as forward.
 - Inviations, sending images, sending links and watching videos inside the chat and attaching files.
-- - Fetching data with 'GET' & 'POST' methods.
+- Fetching data with 'GET' & 'POST' methods.
 - Navigation through dynamic URL and each component has a specific page with Routes.
 - Full responsive website for mobile users also.
 
@@ -22,6 +22,13 @@
 
 
 ![Medical](https://user-images.githubusercontent.com/88718975/169918582-03e662dc-167e-4756-80f9-2c6b9ff3c9d3.png)
+
+![Medical3](https://user-images.githubusercontent.com/88718975/169922757-25e92684-35f9-487d-a5ef-71e172602e74.png)
+
+![Medical2](https://user-images.githubusercontent.com/88718975/169922705-73ca3f5b-0e2a-4bb9-b31d-b2da23a177f4.png)
+
+![Medical4](https://user-images.githubusercontent.com/88718975/169922725-986d06ba-643e-447e-9769-37282f6d7d29.png)
+
 
 
 ## Hosting :
